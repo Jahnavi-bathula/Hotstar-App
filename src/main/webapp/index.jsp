@@ -22,7 +22,7 @@
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
-            <li class="nav-items"><a href="#">Mits Moviesss</a></li>
+            <li class="nav-items"><a href="#">Janu Moviesss</a></li>
             <li class="nav-items"><a href="#">Mits Sportsss</a></li>
             <li class="nav-items"><a href="#">Mits Premium</a></li>
             <li class="nav-items"><a href="#">Mits Disney+</a></li>
